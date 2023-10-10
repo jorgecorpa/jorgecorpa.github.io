@@ -11,26 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSc, in Robotics, University of Manchester, 2024
+* BEng, in Electrical and Electronic Engineering, University of Manchester,2023
+
+**Relevent Experience**
+======
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Hardware/Electronic Intern
+  * Dyson Ltd
+  * Duties included: 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
+* C / C++ / Python / Matlab 
+* Solidworks / 
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
