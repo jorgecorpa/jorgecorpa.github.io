@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jorge Corpa's Homepage"
+title                    : "Jorge's Homepage"
 title_separator          : "-"
 name                     : &name "Jorge Corpa"
 description              : &description "personal description"
