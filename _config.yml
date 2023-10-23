@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jorge Corpa"
-  avatar           : "profile.png"
+  avatar           : /images/"teach-robot-11-orig.jpg"
   bio              : "MSc Robotics"
   location         : "Manchester"
   employer         : "University of Manchester"
