@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* MSc, in Robotics, University of Manchester, 2024
-* BEng, in Electrical and Electronic Engineering, University of Manchester,2023
+* The University of Manchester - MSc in Robotics                               -  2023
+* The University of Manchester - BEng in Electrical and Electronic Engineering -  2024
+* 
 
 **Relevent Experience**
 ======
