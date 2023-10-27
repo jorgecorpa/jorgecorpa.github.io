@@ -4,4 +4,4 @@ excerpt: "<br/><img src='/images/IMG_9874.jpeg'>"
 collection: portfolio
 ---
 
-<img src='/images/IMG_9874.jpeg'>
+<img src='/images/Buggy_Diag.PNG'>
