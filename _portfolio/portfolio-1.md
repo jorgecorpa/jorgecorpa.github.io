@@ -1,6 +1,6 @@
 ---
 title: "Autonomous line following vehicle"
-excerpt: "<br/><img src='/images/Photo.pdf'>"
+excerpt: "<br/><img src='/images/Buggy_Diag.PNG'>"
 collection: portfolio
 ---
 
