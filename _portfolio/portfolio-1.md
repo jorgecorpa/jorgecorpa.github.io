@@ -4,7 +4,7 @@ excerpt: "<br/><img src='/images/IMG_9874.jpeg'>"
 collection: portfolio
 ---
 As a team of 6, we created an autonomous line following buggy that used sensors to detect a white line on the race track during my second year undergraduate studies.
----
+
 | Images and Videos of the Buggy |
 |:--------|
 | <img src='/images/IMG_9874.jpeg'>  |
