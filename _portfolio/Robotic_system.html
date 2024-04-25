@@ -4,41 +4,35 @@ excerpt: "<br/><img src='/images/thumbnail.webp' alt='Description of image' widt
 collection: portfolio
 ---
 <style>
-.video-table {
-    width: 200%; /* Ensures the table takes full width of its container */
-    margin: 20px auto; /* Centers the table and adds vertical spacing */
+.video-container {
+    margin: 20px 0; /* Adds vertical spacing around each video */
+    border: 1px solid #ccc; /* Adds a light gray border around the video iframe */
+    padding: 10px; /* Adds padding inside the border */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds shadow for better focus */
+    text-align: center; /* Ensures the iframe is centered inside the container */
 }
-.video-table td {
-    padding: 10px; /* Adds spacing around each cell */
-    text-align: center; /* Centers the content in each cell */
-}
+
 iframe {
-    width: 200%; /* Allows iframe to expand fully within the cell */
-    height: auto; /* Adjust height automatically based on the width to maintain aspect ratio */
-    min-height: 450px; /* Sets a minimum height to ensure videos are not too small */
-    aspect-ratio: 16 / 9; /* Maintains a 16:9 aspect ratio for better video display */
+    border: none; /* Ensures there is no border around the iframe itself */
 }
 </style>
 
-<h1>The two videos below were made as part of the coursework requirements for the module called Robotic Systems.</h1>
+The two videos below were made as part of the coursework requirements for the module called Robotic Systems.
+The first video is about robotic systems for sustainable development. The video emphasises on different robots within each industry and how they align with current SDGs and potential impacts. 
+The second video is a communication of research which shows and explains the keypoints about an RPLiDAR.
 
-<table class="video-table">
-    <tr>
-        <td>
-            <h2>Robotic Systems for Sustainable Development</h2>
-            <iframe src="https://www.youtube.com/embed/E6vE8oyKKvk"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <h2>Communication of Research on RPLiDAR</h2>
-            <iframe src="https://www.youtube.com/embed/6E72gLPl6HM"
-            title="YouTube video player" frameborder="0"
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-            allowfullscreen></iframe>
-        </td>
-    </tr>
-</table>
+<div class="video-container">
+    <!-- Embed code from YouTube -->
+    <iframe width="560" height="315" src="https://youtube.com/embed/E6vE8oyKKvk" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div> 
+The second video is a communication of research which shows and explains the keypoints about an RPLiDAR.
+<div class="video-container">
+    <!-- Embed code from YouTube -->
+    <iframe width="560" height="315" src="https://youtube.com/embed/6E72gLPl6HM" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen></iframe>
+</div>
