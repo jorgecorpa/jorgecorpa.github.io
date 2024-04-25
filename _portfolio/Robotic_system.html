@@ -11,12 +11,12 @@ collection: portfolio
 .video-table td {
     padding: 10px; /* Adds spacing around each cell */
     text-align: center; /* Centers the content in each cell */
-    border: 1px solid #ccc; /* Optional: adds a light border for better cell definition */
 }
 iframe {
-    width: 560px; /* Set a fixed width for the iframe */
-    height: 315px; /* Set a fixed height for the iframe */
-    max-width: 100%; /* Ensures responsiveness */
+    width: 100%; /* Makes iframe take full width of the cell */
+    height: 100%; /* Adjusts the height dynamically */
+    min-height: 480px; /* Minimum height to start with */
+    aspect-ratio: 16 / 9; /* Maintains a 16:9 aspect ratio */
 }
 </style>
 
