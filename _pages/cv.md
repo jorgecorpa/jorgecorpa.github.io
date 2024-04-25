@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* MSc Robotics - The University of Manchester - 2023
-* BEng Electrical & Electronic Engineering - The University of Manchester - 2024
+* MSc Robotics - The University of Manchester - 2024
+* BEng Electrical & Electronic Engineering - The University of Manchester - 2023
 
   
 **Relevent Experience**
