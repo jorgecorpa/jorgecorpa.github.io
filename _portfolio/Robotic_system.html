@@ -4,40 +4,37 @@ excerpt: "<br/><img src='/images/thumbnail.webp' alt='Description of image' widt
 collection: portfolio
 ---
 <style>
-.video-container {
-    display: flex;
-    justify-content: space-around; /* This spreads out the video containers */
-    flex-wrap: wrap; /* Allows containers to wrap onto the next line on smaller screens */
-    margin: 20px 0; /* Adds vertical spacing around the whole container */
+.video-table {
+    width: 100%; /* Ensures the table takes full width of its container */
+    table-layout: fixed; /* Helps in maintaining equal column widths */
 }
-.video-box {
-    flex: 1 1 300px; /* Flex-grow, flex-shrink and flex-basis */
-    margin: 10px; /* Adds space between video boxes */
-    border: 1px solid #ccc; /* Optional border */
-    padding: 10px; /* Padding around the video */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional shadow */
+.video-table td {
+    padding: 10px; /* Adds spacing around each cell */
+    text-align: center; /* Centers the content in each cell */
 }
 iframe {
-    width: 100%; /* Responsive width */
-    height: 315px; /* Consistent height */
+    width: 100%; /* Makes iframe responsive to the cell width */
+    height: 315px; /* Height can be adjusted accordingly */
 }
 </style>
 
 The two videos below were made as part of the coursework requirements for the module called Robotic Systems.
 
-<div class="video-container">
-    <div class="video-box">
-        <!-- First video -->
-        <iframe src="https://youtube.com/embed/E6vE8oyKKvk" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen></iframe>
-    </div>
-    <div class="video-box">
-        <!-- Second video -->
-        <iframe src="https://youtube.com/embed/6E72gLPl6HM" 
-        title="YouTube video player" frameborder="0" 
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-        allowfullscreen></iframe>
-    </div>
-</div>
+<table class="video-table">
+    <tr>
+        <td>
+            <!-- First video -->
+            <iframe src="https://youtube.com/embed/E6vE8oyKKvk" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+        </td>
+        <td>
+            <!-- Second video -->
+            <iframe src="https://youtube.com/embed/6E72gLPl6HM" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen></iframe>
+        </td>
+    </tr>
+</table>
