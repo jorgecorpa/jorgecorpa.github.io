@@ -6,7 +6,7 @@ collection: portfolio
 <style>
 .video-table {
     width: 100%; /* Ensures the table takes full width of its container */
-    margin: 20px 0; /* Adds vertical spacing around the table */
+    margin: 20px auto; /* Centers the table and adds vertical spacing */
 }
 .video-table td {
     padding: 10px; /* Adds spacing around each cell */
@@ -14,8 +14,9 @@ collection: portfolio
     border: 1px solid #ccc; /* Optional: adds a light border for better cell definition */
 }
 iframe {
-    width: 100%; /* Adapts the video width to the cell */
+    width: 560px; /* Set a fixed width for the iframe */
     height: 315px; /* Set a fixed height for the iframe */
+    max-width: 100%; /* Ensures responsiveness */
 }
 </style>
 
@@ -30,6 +31,8 @@ iframe {
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen></iframe>
         </td>
+    </tr>
+    <tr>
         <td>
             <h2>Communication of Research on RPLiDAR</h2>
             <iframe src="https://www.youtube.com/embed/6E72gLPl6HM"
