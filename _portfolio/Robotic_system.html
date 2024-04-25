@@ -5,17 +5,17 @@ collection: portfolio
 ---
 <style>
 .video-table {
-    width: 100%; /* Ensures the table takes full width of its container */
-    margin: 20px auto; /* Centers the table and adds vertical spacing */
+    width: 100%; /* Full width of the container */
+    table-layout: fixed; /* Ensures equal distribution of width across columns */
+    margin: 20px auto; /* Center the table with some margin */
 }
 .video-table td {
-    padding: 10px; /* Adds spacing around each cell */
-    text-align: center; /* Centers the content in each cell */
+    padding: 10px; /* Padding around videos */
 }
 iframe {
-    width: 560px; /* Original width */
-    height: 315px; /* Original height */
-    max-width: 100%; /* Ensures responsiveness */
+    width: 100%; /* Allows iframe to expand fully within the cell */
+    height: auto; /* Keeps aspect ratio intact */
+    aspect-ratio: 16 / 9; /* Ensures the video maintains a 16:9 aspect ratio */
 }
 </style>
 
