@@ -4,46 +4,45 @@ excerpt: "<br/><img src='/images/thumbnail.webp' alt='Description of image' widt
 collection: portfolio
 ---
 <style>
-/* General styles for the page */
-.page-title {
-    font-size: 28px; /* Larger font size for the main page title */
-    color: #333; /* Dark color for the page title for better contrast */
-    text-align: center; /* Center the main title */
-    margin-top: 20px; /* Spacing at the top */
-}
-
-.video-section {
-    margin-bottom: 40px; /* Adds spacing between video sections */
-}
-
-.video-title {
-    font-size: 22px; /* Larger font size for video titles */
-    font-weight: bold; /* Bold font for emphasis */
-    color: #444; /* Dark grey color for the title */
-    margin: 16px 0 8px; /* Space around the title */
-}
-
-.video-description {
-    font-size: 16px; /* Suitable font size for descriptions */
-    color: #666; /* Grey color for descriptions */
-    margin-bottom: 12px; /* Spacing below the description */
-}
-
 .video-container {
-    margin: 0 auto 20px; /* Center the video and add spacing below */
-    border: 1px solid #ccc; /* Border around the video for definition */
-    padding: 10px; /* Padding inside the video container */
-    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Shadow for visual depth */
-    width: auto; /* Default auto width */
-    max-width: 100%; /* Maximum width within its container */
+    margin: 20px 0; /* Adds vertical spacing around each video */
+    border: 1px solid #ccc; /* Adds a light gray border around the video iframe */
+    padding: 10px; /* Adds padding inside the border */
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Optional: adds shadow for better focus */
+    text-align: center; /* Ensures the iframe is centered inside the container */
+    background-color: #000; /* Sets a dark background for the video container */
 }
 
 iframe {
-    width: 100%; /* Full width to fill the container */
+    border: none; /* Ensures there is no border around the iframe itself */
+    width: 100%; /* Responsive width */
     height: auto; /* Auto height to maintain aspect ratio */
     max-width: 560px; /* Maximum width of the video */
     max-height: 315px; /* Maximum height of the video */
-    aspect-ratio: 16 / 9; /* Maintains the aspect ratio */
+}
+
+/* Style for video titles */
+.video-title {
+    font-size: 24px; /* Larger font size for titles */
+    font-weight: bold; /* Make the titles bold */
+    margin-bottom: 8px; /* Space between title and video */
+    color: #ffffff; /* Bright color for better readability */
+}
+
+/* Style for video descriptions */
+.video-description {
+    font-size: 16px; /* Suitable font size for descriptions */
+    margin-bottom: 20px; /* Space between description and video */
+    color: #dcdcdc; /* Light gray for better readability, less intense than pure white */
+    max-width: 560px; /* Maximum width of the text to align with the video width */
+    margin-left: auto; /* Center the description */
+    margin-right: auto; /* Center the description */
+}
+
+/* Adjustments for the page title, if necessary */
+.page-title {
+    color: #ffffff; /* Bright color for the page title */
+    text-align: center; /* Centers the page title */
 }
 </style>
 
