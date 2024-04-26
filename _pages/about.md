@@ -12,8 +12,6 @@ Hello, my name is Jorge and I am currently pursuing a Masters degree in Robotics
 
 Work Experience
 ===================
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
