@@ -38,7 +38,6 @@ Work Experience
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <h2>Title of the Section</h2>
     <p>This is where you can write about the image. Add as much text as you like, and it will wrap next to the image.</p>
   </div>
 </div>
