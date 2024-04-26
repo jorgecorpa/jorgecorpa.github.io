@@ -38,7 +38,7 @@ Work Experience
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <p>* Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
+    <p> Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
   </div>
 </div>
 
