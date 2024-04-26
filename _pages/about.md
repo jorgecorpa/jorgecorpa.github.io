@@ -47,7 +47,7 @@ Work Experience
 
 Education
 ---------------
-<img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
+<img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
 
 
 
