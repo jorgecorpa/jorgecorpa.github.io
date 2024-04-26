@@ -38,7 +38,7 @@ Work Experience
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <p>This is where you can write about the image. Add as much text as you like, and it will wrap next to the image.</p>
+    <p>Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
   </div>
 </div>
 
