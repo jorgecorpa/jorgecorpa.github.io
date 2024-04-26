@@ -45,5 +45,9 @@ Work Experience
 </body>
 </html>
 
+Education
+---------------
+<img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
+
 
 
