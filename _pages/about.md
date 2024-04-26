@@ -47,7 +47,18 @@ Work Experience
 
 Education
 ---------------
-<img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
+<body>
+
+<div class="image-text-container">
+  <img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
+  <div class="text-content">
+    <p> MSc Robotics 2023 - 2024</p>
+    <p> BEng Electrical and Electronic Engineering 2020 - 2023</p>
+  </div>
+</div>
+
+</body>
+
 
 Skills
 --------------
