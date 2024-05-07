@@ -15,7 +15,7 @@ redirect_from:
     <style>
         /* This style block defines the font size for elements with the 'small-text' class */
         .small-text {
-            font-size: 18px; /* Smaller font size */
+            font-size: 16px; /* Smaller font size */
         }
     </style>
 </head>
@@ -43,7 +43,7 @@ Work Experience
 
   .image-text-container img {
     float: left; /* Floats the image to the left */
-    margin-right: 20px; /* Adds some space between the image and the text */
+    margin-right: 18px; /* Adds some space between the image and the text */
   }
 
   .text-content {
