@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! My studies are focused on creating intelligent robotic solutions that can adapt to and interact with their environment. A highlight of my experience has been developing a Leo Rover with advanced object detection and manipulative grasping capabilities. This project, rooted in machine learning and autonomous system design, has deepened my passion for transforming everyday life through robotics.
+Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! 
+My studies are focused on creating intelligent robotic solutions that can adapt to and interact with their environment. A highlight of my experience has been developing a Leo Rover with advanced object detection and manipulative grasping capabilities. This project, rooted in machine learning and autonomous system design, has deepened my passion for transforming everyday life through robotics.
 
 Work Experience
 --------------------
