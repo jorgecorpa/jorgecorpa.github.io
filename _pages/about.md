@@ -48,6 +48,7 @@ Work Experience
 
   .text-content {
     float: right;
+    font-size: 18px; /* Smaller font size */
     width: calc(100% - 220px); /* Adjusts the text width accounting for image width */
   }
 
@@ -60,7 +61,7 @@ Work Experience
 
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
-  <div class="small-text">
+  <div class="text-content">
     <p> Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
     <p> Skills developed during internship: </p>
     <ul>
@@ -95,7 +96,7 @@ Skills
 
 <div class="small-text">
   <img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
-  <div class="text-content">
+  <div class="small-text">
     <p> For more detail about my curriculum please visit my CV page</p>
   </div>
 </div>
