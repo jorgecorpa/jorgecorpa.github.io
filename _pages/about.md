@@ -15,13 +15,11 @@ redirect_from:
     <style>
         /* This style block defines the font size for elements with the 'small-text' class */
         .small-text {
-            font-size: 12px; /* Smaller font size */
+            font-size: 8px; /* Smaller font size */
         }
     </style>
 </head>
 <body>
-    <h1>Welcome to My Page</h1>
-    <p>This paragraph uses the default font size.</p>
     <!-- Applying the 'small-text' class to elements that should have a smaller font size -->
     <p class="small-text">Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! 
 
