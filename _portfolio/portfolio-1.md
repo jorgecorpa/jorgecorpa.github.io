@@ -3,7 +3,7 @@ title: "Autonomous line following vehicle"
 excerpt: "<br/><img src='/images/IMG_9874.jpeg' alt='Description of image' width='600' height='450'>"
 collection: portfolio
 ---
-As a team of 6, we created an autonomous line following buggy that used sensors to detect a white line on the race track during my second year undergraduate studies.
+In my second year of undergraduate studies, our team of six developed an autonomous line-following buggy. It utilized sensors to detect a white line on the race track, demonstrating practical application of sensor integration and autonomous navigation techniques.
 
 | Images and Videos of the Buggy |
 |:--------|
