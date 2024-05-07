@@ -10,6 +10,8 @@ redirect_from:
 
 Hello, my name is Jorge and I am currently pursuing a Masters degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy!
 
+Driven by a fascination for blending technology and innovation, I am currently pursuing a Master's degree in Robotics, where I have immersed myself in the dynamic intersection of machine learning, software development, and system design. My academic journey has been marked by hands-on projects, including the development of a Leo Rover equipped with advanced object detection and manipulative grasping capabilities. This project not only honed my skills in computer vision and autonomous system design but also fueled my passion for creating intelligent robotic solutions that can interact with and adapt to their environment. My goal is to leverage these competencies to drive advancements in robotics that can transform everyday life and tackle real-world challenges.
+
 Work Experience
 --------------------
 <html lang="en">
