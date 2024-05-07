@@ -60,6 +60,7 @@ Education
 </div>
 
 </body>
+
 Skills
 --------------
 <img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
