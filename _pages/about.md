@@ -15,7 +15,7 @@ redirect_from:
     <style>
         /* This style block defines the font size for elements with the 'small-text' class */
         .small-text {
-            font-size: 16px; /* Smaller font size */
+            font-size: 18px; /* Smaller font size */
         }
     </style>
 </head>
@@ -52,7 +52,7 @@ Work Experience
   }
 
   .small-text {
-    font-size: 16px; /* Smaller font size */
+    font-size: 18px; /* Smaller font size */
         }
 </style>
 </head>
@@ -73,7 +73,7 @@ Education
 ---------------
 <body>
 
-<div class="image-text-container">
+<div class="small-text">
   <img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
     <p> MSc Robotics 2023 ~ 2024</p>
