@@ -62,6 +62,6 @@ Education
 
 Skills
 --------------
-<img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
+<img src='/images/skills.png' alt='Descriptive Alt Text' width='200'>
 
 
