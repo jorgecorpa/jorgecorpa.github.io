@@ -62,7 +62,13 @@ Work Experience
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="small-text">
     <p> Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
-    <p> Skills: Control Systems, PCB Design, Electronics, C (HAL Libray), STM32 Nucleoboard</p>
+    <ul>
+        <li>Control Systems</li>
+        <li>PCB Design</li>
+        <li>Electronics</li>
+        <li>C (HAL Library)</li>
+        <li>STM32 Nucleoboard</li>
+    </ul>
   </div>
 </div>
 
