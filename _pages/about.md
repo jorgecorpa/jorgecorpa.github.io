@@ -91,6 +91,12 @@ Education
 
 Skills
 --------------
-<img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
 
+
+<div class="small-text">
+  <img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
+  <div class="text-content">
+    <p> For more detail about my curriculum please visit my CV page</p>
+  </div>
+</div>
 
