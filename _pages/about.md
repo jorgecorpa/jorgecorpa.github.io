@@ -41,6 +41,7 @@ Work Experience
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
     <p> Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
+    <p> Skills: Control Systems, PCB Design, Electronics, C++ (HAL Libray)</p>
   </div>
 </div>
 
@@ -54,8 +55,8 @@ Education
 <div class="image-text-container">
   <img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <p> MSc Robotics 2023 - 2024</p>
-    <p> BEng Electrical and Electronic Engineering 2020 - 2023</p>
+    <p> MSc Robotics 2023 ~ 2024</p>
+    <p> BEng Electrical and Electronic Engineering 2020 ~ 2023</p>
   </div>
 </div>
 
