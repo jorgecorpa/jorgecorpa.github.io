@@ -7,10 +7,29 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Size Example</title>
+    <style>
+        /* This style block defines the font size for elements with the 'small-text' class */
+        .small-text {
+            font-size: 12px; /* Smaller font size */
+        }
+    </style>
+</head>
+<body>
+    <h1>Welcome to My Page</h1>
+    <p>This paragraph uses the default font size.</p>
+    <!-- Applying the 'small-text' class to elements that should have a smaller font size -->
+    <p class="small-text">Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! 
 
-Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! 
+My studies are focused on creating intelligent robotic solutions that can adapt to and interact with their environment. A highlight of my experience has been developing a Leo Rover with advanced object detection and manipulative grasping capabilities. This project, rooted in machine learning and autonomous system design, has deepened my passion for transforming everyday life through robotics. For further information about the projects I have done, please refer to the portfolio page.</p>
+    <div class="small-text">This div also uses a smaller font size.</div>
+</body>
+</html>
 
-My studies are focused on creating intelligent robotic solutions that can adapt to and interact with their environment. A highlight of my experience has been developing a Leo Rover with advanced object detection and manipulative grasping capabilities. This project, rooted in machine learning and autonomous system design, has deepened my passion for transforming everyday life through robotics. For further information about the projects I have done, please refer to the portfolio page.
 
 Work Experience
 --------------------
