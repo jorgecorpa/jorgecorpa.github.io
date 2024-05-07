@@ -43,20 +43,24 @@ Work Experience
 
   .image-text-container img {
     float: left; /* Floats the image to the left */
-    margin-right: 18px; /* Adds some space between the image and the text */
+    margin-right: 20px; /* Adds some space between the image and the text */
   }
 
   .text-content {
     float: right;
     width: calc(100% - 220px); /* Adjusts the text width accounting for image width */
   }
+
+  .small-text {
+    font-size: 16px; /* Smaller font size */
+        }
 </style>
 </head>
 <body>
 
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
-  <div class="text-content">
+  <div class="small-text">
     <p> Worked at Dyson as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
     <p> Skills: Control Systems, PCB Design, Electronics, C (HAL Libray), STM32 Nucleoboard</p>
   </div>
