@@ -63,7 +63,7 @@ Work Experience
 <div class="image-text-container">
   <img src='/images/dyson.png' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <p> Worked at <a href="dyson.co.uk" target="_blank">Dyson</a> as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
+    <p> Worked at <a href="http://www.dyson.co.uk" target="_blank">Dyson</a> as a Hardware/Electronic intern during the summer of 2022 for 3 months.</p>
     <p> Skills developed during internship: </p>
     <ul>
         <li>Control Systems</li>
