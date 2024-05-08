@@ -48,7 +48,7 @@ Work Experience
 
   .text-content {
     float: right;
-    font-size: 24px; /* Smaller font size */
+    font-size: 18px; /* Smaller font size */
     width: calc(100% - 220px); /* Adjusts the text width accounting for image width */
   }
 
