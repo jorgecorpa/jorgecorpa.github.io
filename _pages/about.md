@@ -94,12 +94,16 @@ Education
 
 Skills
 --------------
-
-
 <div class="small-text">
   <img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
   <div class="small-text">
-    <p> For a comprehensive overview of my academic achievements and professional experiences, please visit the CV page on this website</p>
   </div>
 </div>
 
+Contact Me
+--------------
+<div class="small-text">
+  <div class="small-text">
+    <p> For a comprehensive overview of my academic achievements and professional experiences, please visit the CV page on this website. If you wish to contact me, please click on the email icon on the left handside or through my telephone number in the CV tab. Thank you so much for your interest.</p>
+  </div>
+</div>
