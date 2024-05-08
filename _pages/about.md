@@ -97,7 +97,7 @@ Skills
 <div class="small-text">
   <img src='/images/skills.png' alt='Descriptive Alt Text' width='800'>
   <div class="small-text">
-    <p> For more detail about my curriculum please visit my CV page</p>
+    <p> For a comprehensive overview of my academic achievements and professional experiences, please visit the CV page on this website</p>
   </div>
 </div>
 
