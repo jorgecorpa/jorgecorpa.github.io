@@ -16,13 +16,13 @@ redirect_from:
         /* This style block defines the font size for elements with the 'small-text' class */
         .small-text {
             font-size: 18px; /* Smaller font size */
+            margin-bottom: 20px; /* Adds space below each div */
         }
     </style>
 </head>
 <body>
     <!-- Applying the 'small-text' class to elements that should have a smaller font size -->
     <div class="small-text">Hello, my name is Jorge and I am currently pursuing a Master's degree in Robotics at The University of Manchester. In this section below, I will introduce a bit about my passion. Enjoy! </div>
-    <div class="small-text"></div>
      <div class="small-text">My studies are focused on creating intelligent robotic solutions that can adapt to and interact with their environment. A highlight of my experience has been developing a Leo Rover with advanced object detection and manipulative grasping capabilities. This project, rooted in machine learning and autonomous system design, has deepened my passion for transforming everyday life through robotics. For further information about the projects I have done, please refer to the portfolio page.</div>
 
 </body>
