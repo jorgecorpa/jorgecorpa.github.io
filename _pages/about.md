@@ -104,6 +104,6 @@ Contact Me
 --------------
 <div class="small-text">
   <div class="small-text">
-    <p> For a comprehensive overview of my academic achievements and professional experiences, please visit the CV page on this website. If you wish to contact me, please click on the email icon on the left handside or through my telephone number in the CV tab. Thank you so much for your interest.</p>
+    <p> For a comprehensive overview of my academic achievements and professional experiences, please visit the CV page on this website. If you wish to contact me, you can click on the email icon on the left-hand side or find my telephone number under the CV tab. Thank you very much for your interest.</p>
   </div>
 </div>
