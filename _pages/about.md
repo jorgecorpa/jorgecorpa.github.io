@@ -22,7 +22,9 @@ redirect_from:
 </head>
 <body>
     <!-- Applying the 'small-text' class to elements that should have a smaller font size -->
-    <div class="small-text">Hello, my name is Jorge and I am currently pursuing a Master’s degree in Robotics at The University of Manchester, building on my foundational knowledge in Electrical and Electronic Engineering. Throughout my academic journey, I have taken a leading role in projects like Simba, a customized Leo Rover, where I was specifically responsible for the grasping mechanisms and systems integration. Looking ahead, my dissertation will explore advanced tethered pathfinding techniques, aiming to innovate in autonomous navigation systems. I am passionate about leveraging machine learning and AI to enhance the capabilities of autonomous vehicles and systems, contributing to groundbreaking solutions that address complex challenges in robotics and transform the future of autonomous transportation.</div>
+    <div class="small-text">Hello, my name is Jorge and I am currently pursuing a Master’s degree in Robotics at The University of Manchester, building on my foundational knowledge in Electrical and Electronic Engineering. Throughout my academic journey, I have taken a leading role in projects like Simba, a customized Leo Rover, where I was specifically responsible for the grasping mechanisms and systems integration.</div>
+
+    <div class="small-text">Looking ahead, my dissertation will explore advanced tethered pathfinding techniques, aiming to innovate in autonomous navigation systems. I am passionate about leveraging machine learning and AI to enhance the capabilities of autonomous vehicles and systems, contributing to groundbreaking solutions that address complex challenges in robotics and transform the future of autonomous transportation.</div>
 
 </body>
 </html>
