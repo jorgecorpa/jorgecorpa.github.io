@@ -83,10 +83,10 @@ Education
 <div class="small-text">
   <img src='/images/uom.jpeg' alt='Descriptive Alt Text' width='200'>
   <div class="text-content">
-    <p> MSc Robotics </p>
-    <p> 2023 ~ 2024</p>
-    <p> BEng Electrical and Electronic Engineering </p>
-    <p> 2020 ~ 2023</p>
+    <p> MSc Robotics 2024</p>
+
+    <p> BEng Electrical and Electronic Engineering 2023</p>
+
   </div>
 </div>
 
