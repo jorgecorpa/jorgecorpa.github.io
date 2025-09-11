@@ -5,10 +5,57 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+---
+layout: archive
+title: "Portfolio"
+permalink: /portfolio/
+author_profile: true
+---
+
 {% include base_path %}
 
+<div class="portfolio-grid">
+  {% for post in site.portfolio %}
+    <a class="portfolio-card" href="{{ post.url | relative_url }}">
+      <div class="thumb">
+        {% if post.header and post.header.teaser %}
+          <img src="{{ post.header.teaser | relative_url }}" alt="{{ post.title }} thumbnail">
+        {% else %}
+          {# fall back to whatever you put in excerpt (often an <img>) #}
+          <div class="fallback-thumb">{{ post.excerpt }}</div>
+        {% endif %}
+      </div>
+      <h3 class="title">{{ post.title }}</h3>
+      {% if post.excerpt %}
+        <p class="excerpt">{{ post.excerpt | strip_html | truncate: 110 }}</p>
+      {% endif %}
+    </a>
+  {% endfor %}
+</div>
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  .portfolio-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 20px;
+  }
+  .portfolio-card {
+    display: block;
+    background: #23272a;       /* match your dark theme */
+    border-radius: 12px;
+    padding: 14px;
+    text-decoration: none;
+    transition: transform .15s ease, box-shadow .15s ease;
+  }
+  .portfolio-card:hover { transform: translateY(-4px); box-shadow: 0 10px 18px rgba(0,0,0,.25); }
+  .title { margin: 10px 0 6px; font-size: 1rem; color: #8fd3ff; }
+  .excerpt { margin: 0; font-size: .9rem; color: #cbd5e1; }
+  .thumb { width: 100%; height: 160px; overflow: hidden; border-radius: 8px; }
+  .thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  /* if your excerpt contains a full-size <img>, shrink it inside the card */
+  .fallback-thumb img { width: 100% !important; height: 100% !important; object-fit: cover; display: block; }
+  /* optional: hide dates/meta if your include adds them */
+  .page__meta { display:none; }
+</style>
+
 
