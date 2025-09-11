@@ -22,10 +22,25 @@ redirect_from:
 </head>
 <body>
     <!-- Applying the 'small-text' class to elements that should have a smaller font size -->
-    <div class="small-text">Hello, my name is Jorge Corpa. I am currently pursuing a Master of Engineering in Electrical and Computer Engineering at Cornell University, building on my Master's degree in Robotics From the University of Manchester.</div>
+    <div class="small-text">
+        Hello, my name is Jorge Corpa. I am currently pursuing a Master of Engineering in Electrical and Computer Engineering at Cornell University, building on my Master’s degree in Robotics and Bachelor’s degree in Electrical and Electronic Engineering from the University of Manchester.
+    </div>
 
-    <div class="small-text">My work bridges robotics, control sytems, and AI-driven autonomy. At Cornell, I am conducting research in Multi-construction Robots, where I designed a replicable 3D-printed chassis with a suspension system, added a novel wrist joint to a robotic manipulator, and helped in system integration to test the robot in real life. Our team's work was recognized with the Best Master of Engineering Poster Award in the Computer Systems category.</div>
+    <div class="small-text">
+        My work bridges robotics, control systems, and AI-driven autonomy. At Cornell, I am contributing to the Multi Construction Robot Research Project, where I designed a replicable 3D-printed chassis with a suspension system, added a novel wrist joint to a robotic manipulator, and helped validate the system in simulation. Our team’s work was recognized with the Best Master of Engineering Poster Award in the Computer Systems category.
+    </div>
 
+    <div class="small-text">
+        Previously, I worked as an R&D Hardware Intern at Dyson, where I developed hardware circuits, implemented closed-loop control algorithms on STM32 microcontrollers, and created component emulators for testing.
+    </div>
+
+    <div class="small-text">
+        I have also led and contributed to several academic robotics projects, including: Tethered Path Planning Dissertation, Leo Rover Design Project, and an Autonomous Line-Following Buggy. These experiences strengthened my skills in embedded systems, ROS2, sensor integration, and robotic navigation.
+    </div>
+
+    <div class="small-text">
+        Fluent in English, Spanish, and Chinese, I am passionate about advancing autonomous systems by combining robotics, AI, and embedded hardware to solve complex real-world challenges and shape the future of intelligent machines.
+    </div>
 </body>
 </html>
 
