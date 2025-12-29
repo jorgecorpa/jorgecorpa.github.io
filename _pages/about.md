@@ -28,6 +28,9 @@ redirect_from:
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
     transition: transform 0.2s ease, box-shadow 0.2s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
   }
 
   .project-card:hover {
@@ -40,17 +43,18 @@ redirect_from:
     margin-top: 0;
     color: #004d99;
     font-size: 1.1em;
+    margin-bottom: 10px;
   }
 
   .project-card p {
     font-size: 0.9em;
     color: #444;
     line-height: 1.5;
+    margin-bottom: 15px;
   }
 
   .project-link {
     display: inline-block;
-    margin-top: 10px;
     color: #004d99;
     font-weight: bold;
     text-decoration: none;
@@ -73,24 +77,39 @@ My work bridges the gap between mechanical design, embedded control, and AI. Wit
 <div class="project-grid">
 
   <div class="project-card">
-    <h3>Sisyphus Sand Table</h3>
-    <p><strong>Role:</strong> System Integrator & Firmware Dev</p>
-    <p>Integrated end-to-end system from CAD to RP2040 firmware. Developed dual stepper axis control for coordinated motion. <em>Featured on Raspberry Pi News and Hackaday.</em></p>
+    <div>
+      <h3>Sisyphus Sand Table</h3>
+      <p><strong>Role:</strong> System Integrator & Firmware Dev</p>
+      <p>Integrated end-to-end system from CAD to RP2040 firmware. Developed dual stepper axis control for coordinated motion. <em>Featured on Raspberry Pi News and Hackaday.</em></p>
+    </div>
     <a href="/portfolio/sisyphus" class="project-link">View Project &rarr;</a>
   </div>
 
   <div class="project-card">
-    <h3>Multi-Construction Robot</h3>
-    <p><strong>Role:</strong> Mechanical & Systems Lead</p>
-    <p>Designed a modular 3D-printed chassis with suspension and a novel wrist joint. Validated in Gazebo. <strong>Awarded Best MEng ECE Poster 2024.</strong></p>
+    <div>
+      <h3>Multi-Construction Robot</h3>
+      <p><strong>Role:</strong> Mechanical & Systems Lead</p>
+      <p>Designed a modular 3D-printed chassis with suspension and a novel wrist joint. Validated in Gazebo. <strong>Awarded Best MEng ECE Poster 2024.</strong></p>
+    </div>
     <a href="/portfolio/construction-robot" class="project-link">View Project &rarr;</a>
   </div>
 
   <div class="project-card">
-    <h3>Leo Rover Design</h3>
-    <p><strong>Role:</strong> Team Lead</p>
-    <p>Led a team of 4 to integrate a multi-sensor suite (LiDAR, Depth Camera) and optimize ROS2 architecture on a Raspberry Pi for real-time navigation.</p>
+    <div>
+      <h3>Leo Rover Design</h3>
+      <p><strong>Role:</strong> Team Lead</p>
+      <p>Led a team of 4 to integrate a multi-sensor suite (LiDAR, Depth Camera) and optimize ROS2 architecture on a Raspberry Pi for real-time navigation.</p>
+    </div>
     <a href="/portfolio/leo-rover" class="project-link">View Project &rarr;</a>
+  </div>
+
+  <div class="project-card">
+    <div>
+      <h3>Autonomous Line-Follower</h3>
+      <p><strong>Role:</strong> Team Lead & Hardware Engineer</p>
+      <p>Designed a custom line-sensor PCB and programmed STM32 firmware (C++) using PID control for high-speed tracking. Validated electronics on-board.</p>
+    </div>
+    <a href="/portfolio/line-follower" class="project-link">View Project &rarr;</a>
   </div>
 
 </div>
